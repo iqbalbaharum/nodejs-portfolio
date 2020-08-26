@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Playing around with EJS, Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalbaharum/nodejs-portfolio.git"
+  },
+  "author": "iqbalbaharum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqbalbaharum/nodejs-portfolio/issues"
+  },
+  "homepage": "https://github.com/iqbalbaharum/nodejs-portfolio#readme"
+}
