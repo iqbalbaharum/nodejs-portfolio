@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/iqbalbaharum/nodejs-portfolio/issues"
   },
-  "homepage": "https://github.com/iqbalbaharum/nodejs-portfolio#readme"
+  "homepage": "https://github.com/iqbalbaharum/nodejs-portfolio#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
